@@ -14,6 +14,7 @@ For this project I'm using java 18. So you couldn't lauch it with older versions
 You can download the runnable jar file [here]().
 # Usage :
 <h3> To launch the program with the console interface : </h3>
+First add the filesTypes.xml in the same directory as ExtensionRetriever.jar. Then,
 <code>java -jar ExtensionRetriever.jar</code> (cmd or terminal)
 
 <h3> Different option will appear on your screen : </h3>
