@@ -7,7 +7,7 @@ You need to know the licence before using my project. It gives information about
 # Description :
 With this application you will be able to retrieve the right extension for a file which don't have any extension or not the proper one.
 </br>This application will retrieve the proper extension by using an xml file which contains some signature.
-</br>This [xml database](https://github.com/ollprogram/ExtensionRetriever/blob/main/resources/filesTypes.xml) could be extended as you wish by using this [dtd]() .
+</br>This [xml database](https://github.com/ollprogram/ExtensionRetriever/blob/main/resources/filesTypes.xml) could be extended as you wish by using this [dtd](https://github.com/ollprogram/ExtensionRetriever/blob/main/resources/filesTypes.dtd) .
 # Dependencies :
 For this project I'm using java 18. So you couldn't lauch it with older versions.
 # Download :
