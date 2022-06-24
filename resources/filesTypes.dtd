@@ -1,0 +1,6 @@
+<!ELEMENT types (type)*>
+<!ELEMENT type (name,extension,hex,offset)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT hex (#PCDATA)>
+<!ELEMENT offset (#PCDATA)>

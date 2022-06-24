@@ -1,0 +1,1186 @@
+<?xml version="1.0"?>
+<!DOCTYPE types SYSTEM "filesTypes.dtd">
+<types>
+   <type>
+       <name>RedHat Package Manager (RPM) package</name>
+       <extension>rpm</extension>
+       <hex>ed ab ee db</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Amazon Kindle Update Package</name>
+       <extension>bin</extension>
+       <hex>53 50 30 31</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>WindowsProgram Information File</name>
+       <extension>PIF</extension>
+       <hex>00 nn</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>MacStuffit Self-Extracting Archive</name>
+       <extension>SEA</extension>
+       <hex>00 nn</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>IRISOCR data file</name>
+       <extension>YTR</extension>
+       <hex>00 nn</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>IBM Storyboard bitmap file</name>
+       <extension>PIC</extension>
+       <hex>00 nn</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>PalmPilot Database/Document File</name>
+       <extension>PDB</extension>
+       <hex>00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</hex>
+       <offset>11</offset>
+    </type>
+   <type>
+       <name>Palm Desktop Calendar Archive</name>
+       <extension>DBA</extension>
+       <hex>BE BA FE CA</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Palm Desktop To Do Archive</name>
+       <extension>DBA</extension>
+       <hex>00 01 42 44</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Palm Desktop Calendar Archive</name>
+       <extension>TDA</extension>
+       <hex>00 01 44 54</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Palm Desktop Data File (Access format)</name>
+       <extension></extension>
+       <hex>00 01 00 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Computer icon encoded inICO file format</name>
+       <extension>ico</extension>
+       <hex>00 00 01 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>3rd Generation Partnership Project3GPP</name>
+       <extension>3gp</extension>
+       <hex>66 74 79 70 33 67</hex>
+       <offset>4</offset>
+    </type>
+   <type>
+       <name>3GPP2 multimedia files</name>
+       <extension>3g2</extension>
+       <hex>66 74 79 70 33 67</hex>
+       <offset>4</offset>
+    </type>
+   <type>
+       <name>compressed file (often tar zip)</name>
+       <extension>z</extension>
+       <hex>1F 9D</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>usingLempel-Ziv-Welch algorithm</name>
+       <extension>tar.z</extension>
+       <hex>1F 9D</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Compressed file (often tar zip)</name>
+       <extension>z</extension>
+       <hex>1F A0</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>usingLZH algorithm</name>
+       <extension>tar.z</extension>
+       <hex>1F A0</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>File ortape containing abackup done withAmiBack on an Amiga. </name>
+       <extension>bac</extension>
+       <hex>42 41 43 4B 4D 49 4B 45 44 49 53 4B</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Compressed file usingBzip2 algorithm</name>
+       <extension>bz2</extension>
+       <hex>42 5A 68</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Image file encoded in theGraphics Interchange Format (GIF)</name>
+       <extension>gif</extension>
+       <hex>47 49 46 38</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Tagged Image File Format (little endian format)</name>
+       <extension>tif</extension>
+       <hex>49 49 2A 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Tagged Image File Format (little endian format)</name>
+       <extension>tiff</extension>
+       <hex>49 49 2A 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Tagged Image File Format (big endian format)</name>
+       <extension>tif</extension>
+       <hex>4D 4D 00 2A</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Tagged Image File Format (big endian format)</name>
+       <extension>tiff</extension>
+       <hex>4D 4D 00 2A</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>"Canons RAW format is based on the TIFF file format"</name>
+       <extension>cr2</extension>
+       <hex>49 49 2A 00 10 00 00 00 43 52</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Canon RAW Format Version 2</name>
+       <extension>cr2</extension>
+       <hex>49 49 2A 00 10 00 00 00 43 52</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>KodakCineon image</name>
+       <extension>cin</extension>
+       <hex>80 2A 5F D7</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Compressed file usingRob Northen Compression (version 1 and 2) algorithm</name>
+       <extension></extension>
+       <hex>52 4E 43 01 52 4E 43 02</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>SMPTEDPX image (big endian format)</name>
+       <extension>dpx</extension>
+       <hex>53 44 50 58</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>SMPTEDPX image (little endian format)</name>
+       <extension>dpx</extension>
+       <hex>58 50 44 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>OpenEXR image</name>
+       <extension>exr</extension>
+       <hex>76 2F 31 01</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Better Portable Graphics format</name>
+       <extension>bpg</extension>
+       <hex>42 50 47 FB</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>JPEG raw or in theJFIF orExif file format</name>
+       <extension>jpg</extension>
+       <hex>FF D8 FF DB</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>JPEG raw or in theJFIF orExif file format</name>
+       <extension>jpeg</extension>
+       <hex>FF D8 FF DB</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>JPEG raw or in theJFIF orExif file format</name>
+       <extension>jpg</extension>
+       <hex>FF D8 FF E0 nn nn 4A 46 49 46 00 01</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>JPEG raw or in theJFIF orExif file format</name>
+       <extension>jpeg</extension>
+       <hex>FF D8 FF E0 nn nn 4A 46 49 46 00 01</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>JPEG raw or in theJFIF orExif file format</name>
+       <extension>jpg</extension>
+       <hex>FF D8 FF E1 nn nn 45 78 69 66 00 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>JPEG raw or in theJFIF orExif file format</name>
+       <extension>jpeg</extension>
+       <hex>FF D8 FF E1 nn nn 45 78 69 66 00 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>IFFInterleaved Bitmap Image</name>
+       <extension>ilbm</extension>
+       <hex>46 4F 52 4D nn nn nn nn 49 4C 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFInterleaved Bitmap Image</name>
+       <extension>lbm</extension>
+       <hex>46 4F 52 4D nn nn nn nn 49 4C 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFInterleaved Bitmap Image</name>
+       <extension>ibm</extension>
+       <hex>46 4F 52 4D nn nn nn nn 49 4C 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFInterleaved Bitmap Image</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 49 4C 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFF8-Bit Sampled Voice</name>
+       <extension>8svx</extension>
+       <hex>46 4F 52 4D nn nn nn nn 38 53 56 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFF8-Bit Sampled Voice</name>
+       <extension>8sv</extension>
+       <hex>46 4F 52 4D nn nn nn nn 38 53 56 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFF8-Bit Sampled Voice</name>
+       <extension>svx</extension>
+       <hex>46 4F 52 4D nn nn nn nn 38 53 56 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFF8-Bit Sampled Voice</name>
+       <extension>snd</extension>
+       <hex>46 4F 52 4D nn nn nn nn 38 53 56 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFF8-Bit Sampled Voice</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 38 53 56 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Amiga Contiguous Bitmap</name>
+       <extension>acbm</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 43 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Amiga Contiguous Bitmap</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 43 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFAnimated Bitmap</name>
+       <extension>anbm</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 4E 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFAnimated Bitmap</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 4E 42 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFCEL Animation</name>
+       <extension>anim</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 4E 49 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFCEL Animation</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 4E 49 4D</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFFacsimile Image</name>
+       <extension>faxx</extension>
+       <hex>46 4F 52 4D nn nn nn nn 46 41 58 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFFacsimile Image</name>
+       <extension>faxx</extension>
+       <hex>46 4F 52 4D nn nn nn nn 46 41 58 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFFacsimile Image</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 46 41 58 58</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFFormatted Text</name>
+       <extension>ftxt</extension>
+       <hex>46 4F 52 4D nn nn nn nn 46 54 58 54</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFFormatted Text</name>
+       <extension>txt</extension>
+       <hex>46 4F 52 4D nn nn nn nn 46 54 58 54</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFFormatted Text</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 46 54 58 54</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFSimple Musical Score</name>
+       <extension>smus</extension>
+       <hex>46 4F 52 4D nn nn nn nn 53 4D 55 53</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFSimple Musical Score</name>
+       <extension>smu</extension>
+       <hex>46 4F 52 4D nn nn nn nn 53 4D 55 53</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFSimple Musical Score</name>
+       <extension>mus</extension>
+       <hex>46 4F 52 4D nn nn nn nn 53 4D 55 53</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFSimple Musical Score</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 53 4D 55 53</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFMusical Score</name>
+       <extension>cmus</extension>
+       <hex>46 4F 52 4D nn nn nn nn 43 4D 55 53</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFMusical Score</name>
+       <extension>mus</extension>
+       <hex>46 4F 52 4D nn nn nn nn 43 4D 55 53</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFMusical Score</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 43 4D 55 53</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFYUV Image</name>
+       <extension>yuvn</extension>
+       <hex>46 4F 52 4D nn nn nn nn 59 55 56 4E</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFYUV Image</name>
+       <extension>yuv</extension>
+       <hex>46 4F 52 4D nn nn nn nn 59 55 56 4E</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>IFFYUV Image</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 59 55 56 4E</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>AmigaFantavision Movie</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 46 41 4E 54</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Audio Interchange File Format</name>
+       <extension>aiff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 49 46 46</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Audio Interchange File Format</name>
+       <extension>aif</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 49 46 46</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Audio Interchange File Format</name>
+       <extension>aifc</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 49 46 46</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Audio Interchange File Format</name>
+       <extension>snd</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 49 46 46</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Audio Interchange File Format</name>
+       <extension>iff</extension>
+       <hex>46 4F 52 4D nn nn nn nn 41 49 46 46</hex>
+       <offset>any</offset>
+    </type>
+   <type>
+       <name>Index file to a file ortape containing abackup done withAmiBack on anAmiga.</name>
+       <extension>idx</extension>
+       <hex>49 4E 44 58</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>lzip compressed file</name>
+       <extension>lz</extension>
+       <hex>4C 5A 49 50</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>DOS MZ executable file format and its descendants (includingNE andPE)</name>
+       <extension>exe</extension>
+       <hex>4D 5A</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such as JARODFOOXML</name>
+       <extension>zip</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>jar</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>odt</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>ods</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>odp</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>docx</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>xlsx</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>pptx</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>vsdx</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML</name>
+       <extension>apk</extension>
+       <hex>50 4B 03 04</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>zip</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>jar</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>odt</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>ods</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>odp</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>docx</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>xlsx</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>pptx</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>vsdx</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>apk</extension>
+       <hex>50 4B 05 06</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>zip</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>jar</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>odt</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>ods</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>odp</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>docx</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>xlsx</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>pptx</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>vsdx</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>zip file format and formats based on it such asJARODFOOXML </name>
+       <extension>apk</extension>
+       <hex>50 4B 07 08</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>RAR archive version 1.50 onwards</name>
+       <extension>rar</extension>
+       <hex>52 61 72 21 1A 07 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>RAR archive version 5.0 onwards</name>
+       <extension>rar</extension>
+       <hex>52 61 72 21 1A 07 01 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Executable and Linkable Format</name>
+       <extension></extension>
+       <hex>7F 45 4C 46</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Image encoded in thePortable Network Graphics format</name>
+       <extension>png</extension>
+       <hex>89 50 4E 47 0D 0A 1A 0A</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Java class fileMach-O Fat Binary</name>
+       <extension>class</extension>
+       <hex>CA FE BA BE</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>UTF-8 encodedUnicodebyte order mark commonly seen in text </name>
+       <extension></extension>
+       <hex>EF BB BF</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Mach-O binary (32-bit)</name>
+       <extension></extension>
+       <hex>FE ED FA CE</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Mach-O binary (32-bit)</name>
+       <extension></extension>
+       <hex>FE ED FA CE</hex>
+       <offset>0x1000</offset>
+    </type>
+   <type>
+       <name>Mach-O binary (64-bit)</name>
+       <extension></extension>
+       <hex>FE ED FA CF</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Mach-O binary (64-bit)</name>
+       <extension></extension>
+       <hex>FE ED FA CF</hex>
+       <offset>0x1000</offset>
+    </type>
+   <type>
+       <name>Mach-O binary (reverse byte ordering scheme 32-bit)</name>
+       <extension></extension>
+       <hex>CE FA ED FE</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Mach-O binary (reverse byte ordering scheme 64-bit)</name>
+       <extension></extension>
+       <hex>CF FA ED FE</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Byte-order mark for text file encoded inlittle-endian16-bit </name>
+       <extension></extension>
+       <hex>FF FE</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Byte-order mark for text file encoded in little-endian32-bit </name>
+       <extension></extension>
+       <hex>FF FE 00 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>PostScript document</name>
+       <extension>ps</extension>
+       <hex>25 21 50 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>PDF document</name>
+       <extension>pdf</extension>
+       <hex>25 50 44 46</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Advanced Systems Format</name>
+       <extension>asf</extension>
+       <hex>30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Advanced Systems Format</name>
+       <extension>wma</extension>
+       <hex>30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Advanced Systems Format</name>
+       <extension>wmv</extension>
+       <hex>30 26 B2 75 8E 66 CF 11 A6 D9 00 AA 00 62 CE 6C</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>System Deployment Image a disk image format used byMicrosoft</name>
+       <extension></extension>
+       <hex>24 53 44 49 30 30 30 31</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Ogg anopen source media container format</name>
+       <extension>ogg</extension>
+       <hex>4F 67 67 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Ogg anopen source media container format</name>
+       <extension>oga</extension>
+       <hex>4F 67 67 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Ogg anopen source media container format</name>
+       <extension>ogv</extension>
+       <hex>4F 67 67 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>"Photoshop Document fileAdobe Photoshops native file format"</name>
+       <extension>psd</extension>
+       <hex>38 42 50 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Waveform Audio File Format</name>
+       <extension>wav</extension>
+       <hex>52 49 46 46 nn nn nn nn 57 41 56 45</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Audio Video Interleave video format</name>
+       <extension>avi</extension>
+       <hex>52 49 46 46 nn nn nn nn 41 56 49 20</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>MPEG-1 Layer 3 file without anID3 tag or with anID3v1 tag </name>
+       <extension>mp3</extension>
+       <hex>FF FB</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>MP3 file with an ID3v2 container</name>
+       <extension>mp3</extension>
+       <hex>49 44 33</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>BMP file abitmap format used mostly in theWindows world</name>
+       <extension>bmp</extension>
+       <hex>42 4D</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>BMP file abitmap format used mostly in theWindows world</name>
+       <extension>dib</extension>
+       <hex>42 4D</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>BMP file abitmap format used mostly in theWindows world</name>
+       <extension>bmp</extension>
+       <hex>42 4D</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>BMP file abitmap format used mostly in theWindows world</name>
+       <extension>dib</extension>
+       <hex>42 4D</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>ISO9660 CD/DVD image file</name>
+       <extension>iso</extension>
+       <hex>43 44 30 30 31</hex>
+       <offset>0x8001</offset>
+    </type>
+   <type>
+       <name>ISO9660 CD/DVD image file</name>
+       <extension>iso</extension>
+       <hex>43 44 30 30 31</hex>
+       <offset>0x8801</offset>
+    </type>
+   <type>
+       <name>ISO9660 CD/DVD image file</name>
+       <extension>iso</extension>
+       <hex>43 44 30 30 31</hex>
+       <offset>0x9001</offset>
+    </type>
+   <type>
+       <name>Flexible Image Transport System (FITS)</name>
+       <extension>fits</extension>
+       <hex>53 49 4D 50 4C 45 20 20 3D 20 20 20 20 20 20 20 20 20 20 20 20 20 20</hex>
+       <offset></offset>
+   </type>
+   <type>
+       <name>Free Lossless Audio Codec</name>
+       <extension>flac</extension>
+       <hex>66 4C 61 43</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>MIDI sound file</name>
+       <extension>mid</extension>
+       <hex>4D 54 68 64</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>MIDI sound file</name>
+       <extension>midi</extension>
+       <hex>4D 54 68 64</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Compound File Binary Format a container format used for </name>
+       <extension>doc</extension>
+       <hex>D0 CF 11 E0 A1 B1 1A E1</hex>
+       <offset></offset>
+    </type>
+   <type>
+       <name>Compound File Binary Format a container format used for </name>
+       <extension>xls</extension>
+       <hex>D0 CF 11 E0 A1 B1 1A E1</hex>
+       <offset></offset>
+    </type>
+   <type>
+       <name>Compound File Binary Format a container format used for </name>
+       <extension>ppt</extension>
+       <hex>D0 CF 11 E0 A1 B1 1A E1</hex>
+       <offset></offset>
+    </type>
+   <type>
+       <name>Compound File Binary Format a container format used for </name>
+       <extension>msg</extension>
+       <hex>D0 CF 11 E0 A1 B1 1A E1</hex>
+       <offset></offset>
+    </type>
+   <type>
+       <name>Dalvik Executable</name>
+       <extension>dex</extension>
+       <hex>64 65 78 0A 30 33 35 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>VMDK files</name>
+       <extension>vmdk</extension>
+       <hex>4B 44 4D</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Google Chrome extensionor packaged app</name>
+       <extension>crx</extension>
+       <hex>43 72 32 34</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>FreeHand 8 document</name>
+       <extension>fh8</extension>
+       <hex>41 47 44 33</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>AppleWorks 5 document</name>
+       <extension>cwk</extension>
+       <hex>05 07 00 00 42 4F 42 4F 05 07 00 00 00 00 00 00 00 00 00 00 00 01</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>AppleWorks 6 document</name>
+       <extension>cwk</extension>
+       <hex>06 07 E1 00 42 4F 42 4F 06 07 E1 00 00 00 00 00 00 00 00 00 00 01</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>RoxioToast disc image file also some .dmg-files begin with </name>
+       <extension>toast</extension>
+       <hex>45 52 02 00 00 00 8B 45 52 02 00 00 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Apple Disk Image file</name>
+       <extension>dmg</extension>
+       <hex>78 01 73 0D 62 62 60</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>eXtensible Archive format</name>
+       <extension>xar</extension>
+       <hex>78 61 72 21</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Windows Files And Settings Transfer Repository See also USMT </name>
+       <extension>dat</extension>
+       <hex>50 4D 4F 43 43 4D 4F 43</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Nintendo Entertainment System ROM file</name>
+       <extension>nes</extension>
+       <hex>4E 45 53 1A</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>tar archive</name>
+       <extension>tar</extension>
+       <hex>75 73 74 61 72 00 30 30 75 73 74 61 72 20 20 00</hex>
+       <offset>0x101</offset>
+    </type>
+   <type>
+       <name>Open source portable voxel file</name>
+       <extension>tox</extension>
+       <hex>74 6F 78 33</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Magic Lantern Video file</name>
+       <extension>MLV</extension>
+       <hex>4D 4C 56 49</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Windows UpdateBinary Delta Compression</name>
+       <extension></extension>
+       <hex>44 43 4D 01 50 41 33 30</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>7-Zip File Format</name>
+       <extension>7z</extension>
+       <hex>37 7A BC AF 27 1C</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>GZIP</name>
+       <extension>gz</extension>
+       <hex>1F 8B</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>GZIP</name>
+       <extension>tar.gz</extension>
+       <hex>1F 8B</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>LZ4 Frame Format LZ4 block format does not offer any magic </name>
+       <extension>lz4</extension>
+       <hex>04 22 4D 18</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Microsoft Cabinet file</name>
+       <extension>cab</extension>
+       <hex>4D 53 43 46</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Free Lossless Image Format</name>
+       <extension>flif</extension>
+       <hex>46 4C 49 46</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Matroska media container includingWebM</name>
+       <extension>mkv</extension>
+       <hex>1A 45 DF A3</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Matroska media container includingWebM</name>
+       <extension>mka</extension>
+       <hex>1A 45 DF A3</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Matroska media container includingWebM</name>
+       <extension>mks</extension>
+       <hex>1A 45 DF A3</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Matroska media container includingWebM</name>
+       <extension>mk3d</extension>
+       <hex>1A 45 DF A3</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Matroska media container includingWebM</name>
+       <extension>webm</extension>
+       <hex>1A 45 DF A3</hex>
+       <offset>0</offset>
+    </type>
+    <type>
+        <name>DVD Video File</name>
+        <extension>mpg</extension>
+        <hex>00 00 01 BA</hex>
+        <offset>0</offset>
+    </type>
+    <type>
+        <name>MPEG Video File</name>
+        <extension>mp4</extension>
+        <hex>00 00 01 B3</hex>
+        <offset>0</offset>
+    </type>
+   <type>
+       <name>"SEAN\xa0: Session Analysis" Training file. Also used in </name>
+       <extension>stg</extension>
+       <hex>4D 49 4C 20</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>DjVu document. The following byte is either55 (U) for </name>
+       <extension>djvu</extension>
+       <hex>41 54 26 54 46 4F 52 4D nn nn nn nn 44 4A 56</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>DjVu document. The following byte is either55 (U) for </name>
+       <extension>djvu</extension>
+       <hex>41 54 26 54 46 4F 52 4D nn nn nn nn 44 4A 56</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>DjVu document. The following byte is either55 (U) for </name>
+       <extension>djv</extension>
+       <hex>41 54 26 54 46 4F 52 4D nn nn nn nn 44 4A 56</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>DER encoded X.509 certificate</name>
+       <extension>der</extension>
+       <hex>30 82</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>DICOM Medical File Format</name>
+       <extension>dcm</extension>
+       <hex>44 49 43 4D</hex>
+       <offset>0x80</offset>
+    </type>
+   <type>
+       <name>WOFF File Format 1.0</name>
+       <extension>woff</extension>
+       <hex>77 4F 46 46</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>WOFF File Format 2.0</name>
+       <extension>woff2</extension>
+       <hex>77 4F 46 32</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>eXtensible Markup Language when using theASCII character </name>
+       <extension>XML</extension>
+       <hex>3c 3f 78 6d 6c 20</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>WebAssembly binary format</name>
+       <extension>wasm</extension>
+       <hex>6d 73 61 00</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Lepton compressed JPEG image</name>
+       <extension>lep</extension>
+       <hex>cf 84 01</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>flash .swf</name>
+       <extension>swf</extension>
+       <hex>43 57 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>flash .swf</name>
+       <extension>swf</extension>
+       <hex>46 57 53</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>linux deb file</name>
+       <extension>deb</extension>
+       <hex>21 3C 61 72 63 68 3E</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>Google WebP image file</name>
+       <extension>webp</extension>
+       <hex>52 49 46 46 nn nn nn nn</hex>
+       <offset>0</offset>
+    </type>
+   <type>
+       <name>nothing</name>
+       <extension>webp</extension>
+       <hex>57 45 42 50</hex>
+       <offset></offset>
+    </type>
+   <type>
+       <name>U-Boot / uImage.Das_U-Boot Universal Boot Loader.</name>
+       <extension>img</extension>
+       <hex>27 05 19 56</hex>
+       <offset>0</offset>
+    </type>
+</types>
