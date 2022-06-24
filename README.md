@@ -19,8 +19,8 @@ First add the filesTypes.xml in the same directory as ExtensionRetriever.jar. Th
 
 <h3> Different options will appear on your screen : </h3>
 <ul>
-  <li>Add file to selection. You should paste an absolute path to the file chosen.</li>
-  <li>Add all files from a directory to a selection. You should paste an absolute path to the directory chosen.</li>
+  <li>Add file to selection. You should paste a path to the file chosen.</li>
+  <li>Add all files from a directory to a selection. You should paste a path to the directory chosen.</li>
   <li>Analyse extensions. This will analyse the files selected to retrieve their proper extension.</li>
   <li>Change all extensions (rename). This will rename all selected files to apply the analysed extension for each file.</li>
   <li>Clear selection</li>
