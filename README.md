@@ -11,7 +11,7 @@ With this application you will be able to retrieve the right extension for a fil
 # Dependencies :
 For this project I'm using java 18. So you couldn't lauch it with older versions.
 # Download :
-You can download the runnable jar file [here]().
+You can download the runnable jar file and the xml database [here](https://github.com/ollprogram/ExtensionRetriever/releases).
 # Usage :
 <h3> To launch the program with the console interface : </h3>
 First add the filesTypes.xml in the same directory as ExtensionRetriever.jar. Then,
