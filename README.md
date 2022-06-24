@@ -17,7 +17,7 @@ You can download the runnable jar file [here]().
 First add the filesTypes.xml in the same directory as ExtensionRetriever.jar. Then,
 <code>java -jar ExtensionRetriever.jar</code> (cmd or terminal)
 
-<h3> Different option will appear on your screen : </h3>
+<h3> Different options will appear on your screen : </h3>
 <ul>
   <li>Add file to selection. You should paste an absolute path to the file chosen.</li>
   <li>Add all files from a directory to a selection. You should paste an absolute path to the directory chosen.</li>
