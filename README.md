@@ -1,5 +1,5 @@
 # ExtensionRetriever
-Retrievethe the right extension for a file. Using an xml database containing signatures.
+Retrieve the right extension for a file. Using an xml database containing signatures.
 # Author and Licence :
 Hi I'm ollprogram and I am the author of this project. Thanks for using it. </br>Please don't be afraid to report bugs or mistakes to me. I'll try to fix them. By the way, english isn't my main language, so I'm sorry for english mistakes but I'm open if you find some. </br>
 Find information about the licence used for this project [here](https://github.com/ollprogram/ExtensionRetriever/blob/main/LICENSE).
